@@ -5,4 +5,4 @@
 ## Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПО.git
+git clone https://Nepriyatnosti/my-telegram-bot.git
